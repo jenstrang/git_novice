@@ -6,5 +6,6 @@
   
 # Instructions
 - Mix the ingredients.
-- Chop ingredients
+- Chop the ingredients
+
 
