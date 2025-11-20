@@ -1,7 +1,8 @@
 # Ingredients
-avacodo
-lemon
-salt
+- avacodo
+- lemon
+- salt
 # Instructions
-Mix the ingredients.
-Add another big decision
+- Mix the ingredients.
+
+- Add another big decision
